@@ -4,10 +4,10 @@
 
 - [ ] bouncer
 - [ ] targets
-- [ ] 
 - [ ] word_finder 
 - [ ] mixed_case
 - [ ] dictionary_corner
+- [ ] number_sort 
 - [ ] palindrome 
 - [ ] substring
 
@@ -34,7 +34,7 @@ However, be careful because **case** is important here. If we try:
 ```
 
 This will print "apple is after Banana".  This is because strings are case
-sensitive and the lower-case letters come after the upper case ones.
+sensitive and the lower-case alphabet comes after the upper case alphabet.
 
 ### Case
 

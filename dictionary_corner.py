@@ -12,7 +12,7 @@ Problem:
     "Keep going".  If they are the same, print "You're there!".
 
     The words could be upper or lower case, but this should not
-    affect the outcome.
+    affect the outcome. It should be case-insensitive.
 
 Tests:
 
