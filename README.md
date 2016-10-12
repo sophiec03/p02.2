@@ -3,7 +3,7 @@
 ## Problem Check-list
 
 - [ ] bouncer
-- [ ] 
+- [ ] targets
 - [ ] 
 - [ ] word_finder 
 - [ ] mixed_case
