@@ -9,9 +9,7 @@
 - [ ] mixed_case
 - [ ] dictionary_corner
 - [ ] palindrome 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] substring
 
 
 ## Useful String Conditions
