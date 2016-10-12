@@ -24,7 +24,7 @@ Tests:
     Found in original
     >>> sub_search("ago", "If you want to have a good time just give me a call")
     Found in substring
-    >>> sub_string("fun", "Dont stop me now!")
+    >>> sub_search("fun", "Dont stop me now!")
     Not found
 
 """
