@@ -5,10 +5,10 @@
 - [ ] bouncer
 - [ ] 
 - [ ] 
-- [ ] 
+- [ ] word_finder 
 - [ ] mixed_case
-- [ ] 
-- [ ] 
+- [ ] dictionary_corner
+- [ ] palindrome 
 - [ ] 
 - [ ] 
 - [ ] 
@@ -66,6 +66,16 @@ We can also check the case of a word using the methods:
 		print("That's a lowercase string!")
 ```
 
+### String length
+
+We can find the length of a string (the number of characters, including spaces),
+easily by using the `len` function:
+
+``` python
+	s = "A string with many words!"
+	if len(s) > 10:
+		print("That's a long word!")
+```
 
 ### Characters and substrings
 
