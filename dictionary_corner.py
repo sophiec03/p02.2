@@ -39,4 +39,22 @@ def run_tests():
 
 # Edit this code
 def dictionary(word1, word2):
+    
+     if word1 == word2:
+        print("You're there!")
 
+    elif word1.lower() == word2.lower():
+        print("You're there!")
+
+    elif word1.upper() == word2.upper():
+        print("You're there!")
+
+    elif word1 <= word2:
+        print("Go back")
+
+    elif word1 >= word2:
+        print("Go back")
+
+    
+    else:
+        print("Keep going")
